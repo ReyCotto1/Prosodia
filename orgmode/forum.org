@@ -1,0 +1,9 @@
+* FORUM
+
+** Informacion basica
+*** Nombre: Genesis RPG
+*** Enlace original: [[./forum/forum.url][https://genesisrpg.foroactivo.com]]
+*** Dominio: ~Pending~
+*** Cuenta Admin 
+    Username: Admin
+    Password: @genesisDX7
